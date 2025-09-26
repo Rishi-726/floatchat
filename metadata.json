@@ -1,0 +1,5 @@
+{
+  "name": "ARGO AI Data Explorer",
+  "description": "An AI-powered conversational system for ARGO float data that enables users to query, explore, and visualize oceanographic information using natural language.",
+  "requestFramePermissions": []
+}
